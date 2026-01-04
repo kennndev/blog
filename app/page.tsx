@@ -31,8 +31,8 @@ export default function HomePage() {
         </div>
       </motion.div> */}
 
-      {/* Intelligence Feed Section - Desktop */}
-      <div className="border-t border-border/50 bg-gradient-to-b from-background to-secondary/20 hidden lg:block">
+      {/* Intelligence Feed Section */}
+      <div className="border-t border-border/50 bg-gradient-to-b from-background to-secondary/20">
         <IntelligenceFeed />
       </div>
 
